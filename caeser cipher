@@ -1,4 +1,4 @@
-#ENCRYPTION Ccaser Cipher
+#ENCRYPTION Caeser Cipher
 def encryption (text,s):
     result = ""
     for in range (Len(text)):
